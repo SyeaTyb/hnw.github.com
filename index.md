@@ -1,6 +1,6 @@
 欢迎光临我的个人网站（非常简陋并且写错地方了X_X
 
-### hello world 的几种写法
+### hello world 的部分写法
 ```markdown
 c#:
 Console.WriteLine("Hello,world!"); 
